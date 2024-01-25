@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-varshney08&label=Profile%20views&color=0e75b6&style=flat" alt="p-varshney08" /> </p>
 
-- 📫 How to reach me **priyavarshney081003@gmail.com**
+- 🌱 I’m currently learning PostgresQL **PostgresQL**
+
+- 📫 How to reach me **https://www.linkedin.com/in/priya-varshney-145b05230/**
 
 - 📄 Know about my experiences [Made 5+ MERN Stack Projects,10+ Projects](Made 5+ MERN Stack Projects,10+ Projects)
 
