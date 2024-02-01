@@ -10,10 +10,7 @@
 
 - 📄 Know about my experiences [Made 5+ MERN Stack Projects,10+ Projects](Made 5+ MERN Stack Projects,10+ Projects)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/priya_var08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="priya_var08" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priya_08_var" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priya_08_var" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
